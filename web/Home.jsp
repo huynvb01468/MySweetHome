@@ -1,7 +1,7 @@
 <%-- 
     Document   : Home
     Created on : Jul 19, 2014, 10:40:00 PM
-    Author     : Long
+    Author     : Huy
 --%>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
