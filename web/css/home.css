@@ -1,0 +1,92 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 22, 2014, 11:34:57 PM
+    Author     : NguyenVan
+*/
+.items{
+    float: left;
+    width: 48%;
+}
+.items p{
+    float: left;
+    width: 215px;
+    margin-top: 5px;
+}
+.items img{
+    float: left;
+    width: 100px;
+    height: 77px;
+    margin: 10px 5px ;
+}
+ul .tab{
+    margin-right: 10px;
+    float: left;
+}
+ul .tab:hover{
+    background-color: #2e2e2e;
+}
+.items-land{
+    float: left;
+    width: 40%;
+}
+.info-landlot{
+    margin-top: 3px;
+}
+.items-land:hover{
+    background-color: #2e2e2e;
+}
+#tabcontent{
+    float: left;
+    width: 150%; 
+}
+.tab{
+    cursor:pointer;
+}
+.text-info{
+    color: #eee;
+}
+#page_navigation a{
+    padding:10px;
+    float: left;
+    margin:2px;
+    color:#ccc;
+    width: 12px;
+    height: 12px;
+    text-decoration: none;
+    text-align: center;
+}
+#page_navigation a:hover{background:#ccc;color: black;}
+.active_page{
+    background-color: #8c8c8c;
+    color: red;
+}
+#page_navigation{
+    float: right;
+    margin-top: 9px;
+    //margin-bottom: 3px;
+}
+#content-all{
+    float: left;
+    width: 100%;
+    margin-top: -5px;
+}
+.imgAll{
+    width: 100px;
+    height: 80px;
+}
+.items-search{
+    width: 48%;
+    float: left;
+    height: 80px;
+    margin: 1px;
+}
+.items-search:hover{
+    background-color: #191919;
+}
+#content-all{
+    margin-top: 10px;
+}
